@@ -8,3 +8,4 @@ npm publish --access=public
 
 C:\CIFO-MS3\workspace\prueba-package
 
+![npm (scoped)](https://img.shields.io/npm/v/@ArmandoRodGo/prueba-package?style=plastic)
